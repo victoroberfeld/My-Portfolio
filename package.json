@@ -1,0 +1,20 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Responcive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o Dist/css/ --recursive"
+  },
+  "author": "Victor Oberfeld",
+  "license": "MIT",
+  "dependencies": {
+    "git-add": "0.0.2",
+    "git-commit": "0.0.3",
+    "node-sass": "^4.9.3",
+    "sass": "^1.14.3"
+  },
+  "devDependencies": {
+    "restart": "^2.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "node": true,
+  "globals": {
+    "which": false,
+    "echo": false,
+    "exit": false,
+    "exec": false
+  }
+}
